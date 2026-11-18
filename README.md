@@ -2,6 +2,11 @@
   <img src="assets/banner.svg" alt="Abzal Oralbekov — AI Engineer in progress" width="100%">
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/abzal-oralbekov-b538b1334"><img src="https://img.shields.io/badge/LinkedIn-2a3cff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://t.me/oralbekkov"><img src="https://img.shields.io/badge/Telegram-2a3cff?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+</p>
+
 ### `> PLAYER INFO`
 
 Software engineering graduate from Astana, Kazakhstan.
@@ -13,7 +18,7 @@ Looking for an internship or junior role in AI engineering or Python backend.
 | Project | What it does | Stack | Status |
 |---|---|---|---|
 | [logwatch](https://github.com/OralbekovAbzal/logwatch) | CLI that reads API access logs from stdin, computes error rate and p50/p95 per endpoint, checks SLO thresholds and reports the result via exit code | Python, GitHub Actions | 🟡 level 1 · tests in progress |
-| [billing API](https://github.com/OralbekovAbzal/ai_prep/tree/main/m07-1_billing_api) | Credit billing for an AI video service: creates a generation job and charges the wallet in one transaction, row lock against double spending · [live demo](https://ai-prep-1-3qg4.onrender.com/docs) | FastAPI, PostgreSQL, Docker, Render | 🟡 level 1 |
+| [billing API](https://github.com/OralbekovAbzal/ai_prep/tree/main/m07-1_billing_api) | Credit billing for an AI video service: creates a generation job and charges the wallet in one transaction, row lock against double spending · [live demo](<LINK>/docs) | FastAPI, PostgreSQL, Docker, Render | 🟡 level 1 |
 | [ai_prep](https://github.com/OralbekovAbzal/ai_prep) | My practice repo: solutions to a 14-module plan from Python basics to LLM agents and RAG | Python, SQL, Docker | 🟢 updated daily |
 
 ### `> POWER-UPS` · stack
@@ -34,6 +39,3 @@ LLM APIs and structured output → agents and tool calling → RAG with pgvector
   </picture>
 </p>
 
-### `> CONTACT`
-
-[LinkedIn](https://www.linkedin.com/in/abzal-oralbekov-b538b1334) · Telegram [@oralbekkov](https://t.me/oralbekkov)
