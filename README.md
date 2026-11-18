@@ -40,5 +40,3 @@ Now on module 7 · Docker and deploy: Dockerfile, compose, first service on Rend
     <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/OralbekovAbzal/OralbekovAbzal/output/pacman-contribution-graph.svg">
   </picture>
 </p>
-
-New test
