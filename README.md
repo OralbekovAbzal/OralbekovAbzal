@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Abzal Oralbekov — AI Engineer in progress" width="100%">
+  <img src="assets/banner.svg?v=2" alt="Abzal Oralbekov — AI Engineer in progress" width="100%">
 </p>
 
 <p align="center">
@@ -27,7 +27,9 @@ Looking for an internship or junior role in AI engineering or Python backend.
 
 ### `> NEXT LEVEL` · learning now
 
-LLM APIs and structured output → agents and tool calling → RAG with pgvector
+<!-- NEXT:START -->
+Now on module 07 · Docker and deploy: Dockerfile, compose, first service on Render
+<!-- NEXT:END -->
 
 ### `> GAME LOG` · contributions
 
