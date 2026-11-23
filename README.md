@@ -28,7 +28,7 @@ Looking for an internship or junior role in AI engineering or Python backend.
 ### `> NEXT LEVEL` · learning now
 
 <!-- NEXT:START -->
-Now on module 7 · Docker and deploy: Dockerfile, compose, first service on Render
+Now on module 9 · LLM APIs: tokens, prompts, structured output, streaming
 <!-- NEXT:END -->
 
 ### `> GAME LOG` · contributions
