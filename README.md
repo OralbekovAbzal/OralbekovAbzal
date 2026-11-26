@@ -28,7 +28,7 @@ Looking for an internship or junior role in AI engineering or Python backend.
 ### `> NEXT LEVEL` · learning now
 
 <!-- NEXT:START -->
-Now on module 9 · LLM APIs: tokens, prompts, structured output, streaming
+Now on module 10 · Agents: tool calling, agent loop, guardrails, model routing
 <!-- NEXT:END -->
 
 ### `> GAME LOG` · contributions
