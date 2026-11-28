@@ -28,7 +28,7 @@ Looking for an internship or junior role in AI engineering or Python backend.
 ### `> NEXT LEVEL` · learning now
 
 <!-- NEXT:START -->
-Now on module 10 · Agents: tool calling, agent loop, guardrails, model routing
+Now on module 11 · RAG from scratch: embeddings, pgvector, hybrid search
 <!-- NEXT:END -->
 
 ### `> GAME LOG` · contributions
